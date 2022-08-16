@@ -1,6 +1,5 @@
 <template>
   <div class="container">
-    <h1>About Us</h1>
     <div class="about">
       <div class="about-img"><img src="../assets/loes-klinker-IT7KiQCvfJ4-unsplash.jpg" /></div>
       <div class="about-des">
@@ -23,6 +22,13 @@ Don’t be shy to browse around our site.
   </div>
 </template>
 <style>
+.container{
+  height: 86vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
 .about{
   display: flex;
   gap: 10px;

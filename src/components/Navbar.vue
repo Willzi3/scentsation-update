@@ -14,9 +14,7 @@
           ><li>Home</li></a
         >
         <a href="/products"><li>Products</li></a>
-        <a href=""><li>Resume</li></a>
-        <a href="projects"><li>Projects</li></a>
-        <a class="nav-link" href="testimonials"><li>Testimonials</li></a>
+        <a class="nav-link" href="/about"><li>About</li></a>
         <a href="contact"><li>Contact</li></a>
       </ul>
     </div>

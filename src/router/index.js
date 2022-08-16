@@ -36,6 +36,21 @@ const routes = [
     path: '/contact',
     name: 'Contact',
     component: () => import(/* webpackChunkName: "about" */ '../views/Contact.vue')
+  },
+  {
+    path: '/admin',
+    name: 'Admin',
+    component: () => import(/* webpackChunkName: "about" */ '../views/Admin.vue')
+  },
+  {
+    path: '/product-table',
+    name: 'ProductTable',
+    component: () => import(/* webpackChunkName: "about" */ '../views/ProductTable.vue')
+  },
+  {
+    path: '/user-table',
+    name: 'UserTable',
+    component: () => import(/* webpackChunkName: "about" */ '../views/UserTable.vue')
   }
 
 
