@@ -1,4 +1,4 @@
-# scentsation-store
+# scentsation-ecom
 
 ## Project setup
 ```
